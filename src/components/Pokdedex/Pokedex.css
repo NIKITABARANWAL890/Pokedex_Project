@@ -1,0 +1,14 @@
+.pokedex-wrapper{
+    display: flex;
+    flex-direction: column;
+    /* gap: 2rem; */
+}
+#pokedex-heading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+}
+.pokemon-list-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
