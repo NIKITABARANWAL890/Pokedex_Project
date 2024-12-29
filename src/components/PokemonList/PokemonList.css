@@ -4,3 +4,10 @@
     align-items: center;
     margin-top: 1rem;
 }
+
+.pokemon-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
